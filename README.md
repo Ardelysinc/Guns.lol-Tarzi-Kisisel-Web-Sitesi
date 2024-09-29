@@ -7,12 +7,6 @@ Sosyal Medya Entegrasyonu: Facebook, Twitter, Instagram gibi popüler sosyal med
 Profil Bölümü: Kullanıcılar kendilerini tanıtan yazılar ve profil fotoğrafları ekleyebilirler.
 Müzik Açma/Kapatma Butonu: Kullanıcılar müziği kolayca açıp kapatabilir.
 
-Teknolojiler
-HTML
-CSS
-JavaScript
-Font Awesome (ikonlar için)
-
 Kullanım
 Projeyi klonlayın veya indirin.
 index.html dosyasını tarayıcınızda açarak siteyi görüntüleyin.
