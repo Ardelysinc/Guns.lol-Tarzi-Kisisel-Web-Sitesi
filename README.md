@@ -15,7 +15,7 @@ Müzik dosyasını music klasörüne yerleştirin ve script.js dosyasını düze
 Katkıda Bulunanlar:
 Ardelys - Projenin yaratıcısı ve geliştiricisi
 
-İletişim
+İletişim:
 Herhangi bir sorunuz veya öneriniz varsa, lütfen benimle iletişime geçin: [contact@ardelysinc.net].
 
 Siteden Kareler:
