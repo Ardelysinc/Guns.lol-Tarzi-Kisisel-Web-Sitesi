@@ -11,10 +11,10 @@ window.onload = function() {
 musicToggle.onclick = function() {
     if (music.paused) {
         music.play();
-        musicToggle.innerHTML = '<i class="fas fa-volume-up"></i>'; // Buton metnini değiştir
+        musicToggle.innerHTML = '<i class="fas fa-volume-up"></i>';
     } else {
         music.pause();
-        musicToggle.innerHTML = '<i class="fas fa-volume-off"></i>'; // Buton metnini değiştir
+        musicToggle.innerHTML = '<i class="fas fa-volume-off"></i>';
     }
 };
 
